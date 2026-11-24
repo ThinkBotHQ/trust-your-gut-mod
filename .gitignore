@@ -1,0 +1,17 @@
+# Local reference material and notes. Not part of this repo.
+/src/
+/wiki/
+/notes/
+/COMMANDS.md
+# Only Doorstop's loader files are kept from the BepInEx zip (see vendor/README.md).
+/vendor/*.zip
+/vendor/*/BepInEx/
+# One-off check with machine paths.
+/tools/check_restore.sh
+# The game's save key. Never commit it (see README, "Files").
+/tools/.save-key
+
+# Build output.
+mod/bin/
+
+.DS_Store

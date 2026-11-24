@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-labelledby="t d">
+  <title id="t">TYG Board Sync &amp; Save Points</title>
+  <desc id="d">Original roulette wheel drawn from simple shapes, slowly rotating, next to the project title and tagline.</desc>
+  <defs>
+    <linearGradient id="bg0" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1410"/><stop offset="1" stop-color="#0f1f17"/></linearGradient>
+    <radialGradient id="felt0" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#1f5c3a"/><stop offset="1" stop-color="#143d27"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="1278" height="398" rx="16" fill="url(#bg0)" stroke="#d4a94a" stroke-width="1.5"/>
+  <g transform="translate(1040 200)">
+    <circle r="168" fill="url(#felt0)" stroke="#d4a94a" stroke-width="2.5"/>
+    <circle r="160" fill="none" stroke="#d4a94a" stroke-opacity="0.45" stroke-width="0.8" stroke-dasharray="2 5"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="30s" repeatCount="indefinite"/>
+      <path d="M-11.81 -149.53 A150 150 0 0 1 11.81 -149.53 L7.24 -91.71 A92 92 0 0 0 -7.24 -91.71 Z" fill="#2a2f33" stroke="#d4a94a" stroke-width="2.6"/>
+      <path d="M13.63 -149.38 A150 150 0 0 1 36.91 -145.39 L22.64 -89.17 A92 92 0 0 0 8.36 -91.62 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M38.68 -144.93 A150 150 0 0 1 60.95 -137.06 L37.38 -84.06 A92 92 0 0 0 23.73 -88.89 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M62.62 -136.3 A150 150 0 0 1 83.24 -124.79 L51.05 -76.54 A92 92 0 0 0 38.41 -83.6 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M84.75 -123.76 A150 150 0 0 1 103.13 -108.93 L63.25 -66.81 A92 92 0 0 0 51.98 -75.91 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M104.45 -107.66 A150 150 0 0 1 120.05 -89.93 L73.63 -55.16 A92 92 0 0 0 64.06 -66.03 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M121.14 -88.46 A150 150 0 0 1 133.52 -68.35 L81.89 -41.92 A92 92 0 0 0 74.3 -54.25 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M134.35 -66.71 A150 150 0 0 1 143.15 -44.8 L87.8 -27.48 A92 92 0 0 0 82.4 -40.92 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M143.69 -43.05 A150 150 0 0 1 148.67 -19.96 L91.18 -12.24 A92 92 0 0 0 88.13 -26.4 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M148.9 -18.14 A150 150 0 0 1 149.9 5.45 L91.94 3.34 A92 92 0 0 0 91.32 -11.13 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M149.82 7.28 A150 150 0 0 1 146.82 30.71 L90.05 18.83 A92 92 0 0 0 91.89 4.47 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M146.44 32.5 A150 150 0 0 1 139.52 55.08 L85.57 33.78 A92 92 0 0 0 89.82 19.93 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M138.84 56.78 A150 150 0 0 1 128.21 77.86 L78.63 47.76 A92 92 0 0 0 85.15 34.82 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M127.25 79.42 A150 150 0 0 1 113.2 98.41 L69.43 60.36 A92 92 0 0 0 78.04 48.71 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M111.99 99.79 A150 150 0 0 1 94.94 116.13 L58.23 71.22 A92 92 0 0 0 68.69 61.2 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M93.52 117.28 A150 150 0 0 1 73.95 130.5 L45.36 80.04 A92 92 0 0 0 57.36 71.93 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M72.35 131.4 A150 150 0 0 1 50.83 141.12 L31.18 86.56 A92 92 0 0 0 44.38 80.59 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M49.11 141.73 A150 150 0 0 1 26.25 147.68 L16.1 90.58 A92 92 0 0 0 30.12 86.93 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M24.45 147.99 A150 150 0 0 1 0.92 150 L0.56 92 A92 92 0 0 0 14.99 90.77 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-0.92 150 A150 150 0 0 1 -24.45 147.99 L-14.99 90.77 A92 92 0 0 0 -0.56 92 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-26.25 147.68 A150 150 0 0 1 -49.11 141.73 L-30.12 86.93 A92 92 0 0 0 -16.1 90.58 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-50.83 141.12 A150 150 0 0 1 -72.35 131.4 L-44.38 80.59 A92 92 0 0 0 -31.18 86.56 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-73.95 130.5 A150 150 0 0 1 -93.52 117.28 L-57.36 71.93 A92 92 0 0 0 -45.36 80.04 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-94.94 116.13 A150 150 0 0 1 -111.99 99.79 L-68.69 61.2 A92 92 0 0 0 -58.23 71.22 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-113.2 98.41 A150 150 0 0 1 -127.25 79.42 L-78.04 48.71 A92 92 0 0 0 -69.43 60.36 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-128.21 77.86 A150 150 0 0 1 -138.84 56.78 L-85.15 34.82 A92 92 0 0 0 -78.63 47.76 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-139.52 55.08 A150 150 0 0 1 -146.44 32.5 L-89.82 19.93 A92 92 0 0 0 -85.57 33.78 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-146.82 30.71 A150 150 0 0 1 -149.82 7.28 L-91.89 4.47 A92 92 0 0 0 -90.05 18.83 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-149.9 5.45 A150 150 0 0 1 -148.9 -18.14 L-91.32 -11.13 A92 92 0 0 0 -91.94 3.34 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-148.67 -19.96 A150 150 0 0 1 -143.69 -43.05 L-88.13 -26.4 A92 92 0 0 0 -91.18 -12.24 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-143.15 -44.8 A150 150 0 0 1 -134.35 -66.71 L-82.4 -40.92 A92 92 0 0 0 -87.8 -27.48 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-133.52 -68.35 A150 150 0 0 1 -121.14 -88.46 L-74.3 -54.25 A92 92 0 0 0 -81.89 -41.92 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-120.05 -89.93 A150 150 0 0 1 -104.45 -107.66 L-64.06 -66.03 A92 92 0 0 0 -73.63 -55.16 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-103.13 -108.93 A150 150 0 0 1 -84.75 -123.76 L-51.98 -75.91 A92 92 0 0 0 -63.25 -66.81 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-83.24 -124.79 A150 150 0 0 1 -62.62 -136.3 L-38.41 -83.6 A92 92 0 0 0 -51.05 -76.54 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-60.95 -137.06 A150 150 0 0 1 -38.68 -144.93 L-23.73 -88.89 A92 92 0 0 0 -37.38 -84.06 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+      <path d="M-36.91 -145.39 A150 150 0 0 1 -13.63 -149.38 L-8.36 -91.62 A92 92 0 0 0 -22.64 -89.17 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+      <g><circle cx="0" cy="-122.35" r="9" fill="#f2efe6"/><rect x="-5.4" y="-116.5" width="10.8" height="5.4" rx="1.8" fill="#f2efe6"/><circle cx="-3.42" cy="-121.9" r="2.88" fill="#2a2f33"/><circle cx="3.42" cy="-121.9" r="2.88" fill="#2a2f33"/><path d="M0 -118.3 l-1.26 2.7 h2.52 z" fill="#2a2f33"/></g>
+    </g>
+    <circle r="84" fill="url(#felt0)" stroke="#d4a94a" stroke-width="2"/>
+    <circle r="12" fill="#d4a94a"/>
+    <path d="M0 -156 L-10 -178 L10 -178 Z" fill="#d4a94a"/>
+  </g>
+<text x="60" y="176" font-size="46" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="800" letter-spacing="-0.5">TYG Board Sync &amp; Save Points</text>
+  <rect x="60" y="200" width="120" height="3" rx="1.5" fill="#d4a94a"/>
+<text x="60" y="246" font-size="20" fill="#c9c3b1" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">The betting table mirrors the wheel.</text>
+<text x="60" y="276" font-size="20" fill="#c9c3b1" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">Save points for strategy practice: name, pin, restore.</text>
+<text x="60" y="352" font-size="15" fill="#d4a94a" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" letter-spacing="0.5">by ThinkBot  ·  thinks.bot</text>
+</svg>

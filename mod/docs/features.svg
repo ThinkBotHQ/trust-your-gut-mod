@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+  <title id="t">Board sync, save points, and safe by design</title>
+  <desc id="d">Three feature cards: board sync (wheel to table), save points (make, restore, rename, pin, delete), and safe by design.</desc>
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1410"/><stop offset="1" stop-color="#0f1f17"/></linearGradient>
+    <radialGradient id="felt3" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#1f5c3a"/><stop offset="1" stop-color="#143d27"/></radialGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="358" rx="16" fill="url(#bg3)" stroke="#d4a94a" stroke-width="1.5"/>
+  <rect x="40" y="36" width="340" height="288" rx="16" fill="#143d27" fill-opacity="0.55" stroke="#d4a94a" stroke-width="1"/>
+  <rect x="64" y="58" width="44" height="4" rx="2" fill="#d4a94a"/>
+<text x="64" y="98" font-size="24" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700">Board sync</text>
+<text x="64" y="132" font-size="15" fill="#d4a94a" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">wheel → table</text>
+  <circle cx="70" cy="199" r="3" fill="#d4a94a"/>
+<text x="82" y="204" font-size="16" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">Skull on the death pocket</text>
+  <circle cx="70" cy="225" r="3" fill="#d4a94a"/>
+<text x="82" y="230" font-size="16" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">Pocket color, live</text>
+  <circle cx="70" cy="251" r="3" fill="#d4a94a"/>
+<text x="82" y="256" font-size="16" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">x2 copy count and fire marks</text>
+  <rect x="430" y="36" width="340" height="288" rx="16" fill="#143d27" fill-opacity="0.55" stroke="#d4a94a" stroke-width="1"/>
+  <rect x="454" y="58" width="44" height="4" rx="2" fill="#d4a94a"/>
+<text x="454" y="98" font-size="24" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700">Save points</text>
+<text x="454" y="132" font-size="15" fill="#d4a94a" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">make · restore · rename</text>
+<text x="454" y="156" font-size="15" fill="#d4a94a" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">pin · delete</text>
+  <circle cx="460" cy="199" r="3" fill="#d4a94a"/>
+<text x="472" y="204" font-size="16" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">Run only or full restore</text>
+  <circle cx="460" cy="225" r="3" fill="#d4a94a"/>
+<text x="472" y="230" font-size="16" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">Auto save point before restore</text>
+  <circle cx="460" cy="251" r="3" fill="#d4a94a"/>
+<text x="472" y="256" font-size="16" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">Up to 4 pinned save points</text>
+  <circle cx="460" cy="277" r="3" fill="#d4a94a"/>
+<text x="472" y="282" font-size="16" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">Item icons, full list on hover</text>
+  <circle cx="460" cy="303" r="3" fill="#d4a94a"/>
+<text x="472" y="308" font-size="16" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">For strategy practice only</text>
+  <rect x="820" y="36" width="340" height="288" rx="16" fill="#143d27" fill-opacity="0.55" stroke="#d4a94a" stroke-width="1"/>
+  <rect x="844" y="58" width="44" height="4" rx="2" fill="#d4a94a"/>
+<text x="844" y="98" font-size="24" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700">Safe by design</text>
+<text x="844" y="132" font-size="15" fill="#d4a94a" text-anchor="start" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">a copy, never an edit</text>
+  <circle cx="850" cy="199" r="3" fill="#d4a94a"/>
+<text x="862" y="204" font-size="16" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">Never edits a save file</text>
+  <circle cx="850" cy="225" r="3" fill="#d4a94a"/>
+<text x="862" y="230" font-size="16" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">Never runs console commands</text>
+  <circle cx="850" cy="251" r="3" fill="#d4a94a"/>
+<text x="862" y="256" font-size="16" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">Copies checked with SHA-256</text>
+  <circle cx="850" cy="277" r="3" fill="#d4a94a"/>
+<text x="862" y="282" font-size="16" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">Board sync changes looks only</text>
+</svg>

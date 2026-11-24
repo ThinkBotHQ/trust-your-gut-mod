@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
+  <title id="t">Restore flow: five steps</title>
+  <desc id="d">Five steps from left to right: save like Quit to menu, auto save point, main menu idle, copy save point in, continue run.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1410"/><stop offset="1" stop-color="#0f1f17"/></linearGradient>
+    <radialGradient id="felt2" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#1f5c3a"/><stop offset="1" stop-color="#143d27"/></radialGradient>
+    <marker id="ah2" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#d4a94a"/></marker>
+  </defs>
+  <rect x="1" y="1" width="1198" height="298" rx="16" fill="url(#bg2)" stroke="#d4a94a" stroke-width="1.5"/>
+  <rect x="58" y="60" width="180" height="110" rx="14" fill="#143d27" stroke="#d4a94a" stroke-width="1.4"/>
+<text x="74" y="86" font-size="12" fill="#d4a94a" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" letter-spacing="1">STEP 1</text>
+<text x="148" y="123" font-size="17" fill="#f2efe6" text-anchor="middle" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600">Save like</text>
+<text x="148" y="145" font-size="17" fill="#f2efe6" text-anchor="middle" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600">Quit to menu</text>
+  <path d="M244 115 L278 115" fill="none" stroke="#d4a94a" stroke-width="2.2" marker-end="url(#ah2)"/>
+  <rect x="284" y="60" width="180" height="110" rx="14" fill="#143d27" stroke="#d4a94a" stroke-width="1.4"/>
+<text x="300" y="86" font-size="12" fill="#d4a94a" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" letter-spacing="1">STEP 2</text>
+<text x="374" y="132" font-size="17" fill="#f2efe6" text-anchor="middle" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600">Auto save point</text>
+  <path d="M470 115 L504 115" fill="none" stroke="#d4a94a" stroke-width="2.2" marker-end="url(#ah2)"/>
+  <rect x="510" y="60" width="180" height="110" rx="14" fill="#143d27" stroke="#d4a94a" stroke-width="1.4"/>
+<text x="526" y="86" font-size="12" fill="#d4a94a" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" letter-spacing="1">STEP 3</text>
+<text x="600" y="123" font-size="17" fill="#f2efe6" text-anchor="middle" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600">Main menu</text>
+<text x="600" y="145" font-size="17" fill="#f2efe6" text-anchor="middle" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600">(idle)</text>
+  <path d="M696 115 L730 115" fill="none" stroke="#d4a94a" stroke-width="2.2" marker-end="url(#ah2)"/>
+  <rect x="736" y="60" width="180" height="110" rx="14" fill="#143d27" stroke="#d4a94a" stroke-width="1.4"/>
+<text x="752" y="86" font-size="12" fill="#d4a94a" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" letter-spacing="1">STEP 4</text>
+<text x="826" y="123" font-size="17" fill="#f2efe6" text-anchor="middle" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600">Copy save</text>
+<text x="826" y="145" font-size="17" fill="#f2efe6" text-anchor="middle" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600">point in</text>
+  <path d="M922 115 L956 115" fill="none" stroke="#d4a94a" stroke-width="2.2" marker-end="url(#ah2)"/>
+  <rect x="962" y="60" width="180" height="110" rx="14" fill="#143d27" stroke="#d4a94a" stroke-width="1.4"/>
+<text x="978" y="86" font-size="12" fill="#d4a94a" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" letter-spacing="1">STEP 5</text>
+<text x="1052" y="132" font-size="17" fill="#f2efe6" text-anchor="middle" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="600">Continue run</text>
+<text x="600" y="226" font-size="16" fill="#c9c3b1" text-anchor="middle" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">Same path as the game's own Quit to menu + Continue. Auto save point is on by default.</text>
+</svg>

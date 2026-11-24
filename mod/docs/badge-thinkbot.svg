@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="20" viewBox="0 0 116 20" role="img" aria-labelledby="t d">
+  <title id="t">Made by ThinkBot</title>
+  <desc id="d">Badge: made by, ThinkBot.</desc>
+  <defs>
+    <clipPath id="c"><rect width="116" height="20" rx="4"/></clipPath>
+    <linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-opacity=".14"/></linearGradient>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="54" height="20" fill="#2a332d"/>
+    <rect x="54" width="62" height="20" fill="#8a6a24"/>
+    <rect width="116" height="20" fill="url(#s)"/>
+  </g>
+  <g fill="#f2efe6" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">
+    <text x="27" y="14">made by</text>
+    <text x="85" y="14">ThinkBot</text>
+  </g>
+</svg>

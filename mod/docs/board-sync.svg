@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
+  <title id="t">Board sync: wheel pockets and table tiles</title>
+  <desc id="d">A wheel segment on the left with a skull pocket, a red 7, a black 12 marked x2, and a flame pocket. Arrows point to matching betting-table tiles.</desc>
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1410"/><stop offset="1" stop-color="#0f1f17"/></linearGradient>
+    <radialGradient id="felt1" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#1f5c3a"/><stop offset="1" stop-color="#143d27"/></radialGradient>
+    <marker id="ah" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9 z" fill="#d4a94a"/></marker>
+  </defs>
+  <rect x="1" y="1" width="1198" height="418" rx="16" fill="url(#bg1)" stroke="#d4a94a" stroke-width="1.5"/>
+<text x="60" y="60" font-size="14" fill="#d4a94a" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" letter-spacing="2">WHEEL</text>
+<text x="600" y="96" font-size="14" fill="#d4a94a" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700" letter-spacing="2">BETTING TABLE</text>
+  <circle cx="40" cy="225" r="131" fill="url(#felt1)" stroke="#d4a94a" stroke-width="2"/>
+  <path d="M246.61 110.95 A236 236 0 0 1 267.85 163.52 L167.44 190.61 A132 132 0 0 0 155.56 161.21 Z" fill="#2a2f33" stroke="#d4a94a" stroke-width="2.2"/>
+<g><circle cx="210.6" cy="154.42" r="11" fill="#f2efe6"/><rect x="204" y="161.57" width="13.2" height="6.6" rx="2.2" fill="#f2efe6"/><circle cx="206.42" cy="154.97" r="3.52" fill="#2a2f33"/><circle cx="214.78" cy="154.97" r="3.52" fill="#2a2f33"/><path d="M210.6 159.37 l-1.54 3.3 h3.08 z" fill="#2a2f33"/></g>
+  <path d="M268.59 166.31 A236 236 0 0 1 275.99 222.53 L171.99 223.62 A132 132 0 0 0 167.85 192.17 Z" fill="#c0392b" stroke="#3d4f44" stroke-width="0.6"/>
+<text x="222.43" y="207.98" font-size="18" fill="#f2efe6" text-anchor="middle" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700">7</text>
+  <path d="M275.99 227.47 A236 236 0 0 1 268.59 283.69 L167.85 257.83 A132 132 0 0 0 171.99 226.38 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+<text x="222.43" y="251.02" font-size="18" fill="#f2efe6" text-anchor="middle" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700">12</text>
+<text x="222.43" y="268.02" font-size="12" fill="#d4a94a" text-anchor="middle" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700">x2</text>
+  <path d="M267.85 286.48 A236 236 0 0 1 246.61 339.05 L155.56 288.79 A132 132 0 0 0 167.44 259.39 Z" fill="#111614" stroke="#3d4f44" stroke-width="0.6"/>
+<path d="M210.6 280.93 C218.4 290.03 218.66 298.48 210.6 306.93 C202.54 298.48 202.8 290.03 210.6 280.93 Z" fill="#e67e22"/><path d="M210.6 291.33 C214.5 295.88 214.5 301.08 210.6 304.33 C206.7 301.08 206.7 295.88 210.6 291.33 Z" fill="#f7d154"/>
+  <rect x="600" y="110.09" width="120" height="50" rx="8" fill="#9aa3a8"/>
+<g><circle cx="660" cy="133.44" r="11" fill="#111614"/><rect x="653.4" y="140.59" width="13.2" height="6.6" rx="2.2" fill="#111614"/><circle cx="655.82" cy="133.99" r="3.52" fill="#9aa3a8"/><circle cx="664.18" cy="133.99" r="3.52" fill="#9aa3a8"/><path d="M660 138.39 l-1.54 3.3 h3.08 z" fill="#9aa3a8"/></g>
+  <rect x="600" y="168.67" width="120" height="50" rx="8" fill="#c0392b"/>
+<text x="660" y="201.67" font-size="24" fill="#f2efe6" text-anchor="middle" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700">7</text>
+  <rect x="600" y="231.33" width="120" height="50" rx="8" fill="#111614" stroke="#3d4f44" stroke-width="1"/>
+<text x="618" y="264.33" font-size="22" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700">12</text>
+<text x="704" y="263.33" font-size="16" fill="#d4a94a" text-anchor="end" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" font-weight="700">x2</text>
+  <rect x="600" y="289.91" width="120" height="50" rx="8" fill="#111614" stroke="#d4a94a" stroke-width="2"/>
+<path d="M660 300.91 C668.4 310.71 668.68 319.81 660 328.91 C651.32 319.81 651.6 310.71 660 300.91 Z" fill="#e67e22"/><path d="M660 312.11 C664.2 317.01 664.2 322.61 660 326.11 C655.8 322.61 655.8 317.01 660 312.11 Z" fill="#f7d154"/>
+  <path d="M268.52 135.09 L592 135.09" fill="none" stroke="#d4a94a" stroke-width="2" marker-end="url(#ah)"/>
+  <path d="M283.95 193.67 L592 193.67" fill="none" stroke="#d4a94a" stroke-width="2" marker-end="url(#ah)"/>
+  <path d="M283.95 256.33 L592 256.33" fill="none" stroke="#d4a94a" stroke-width="2" marker-end="url(#ah)"/>
+  <path d="M268.52 314.91 L592 314.91" fill="none" stroke="#d4a94a" stroke-width="2" marker-end="url(#ah)"/>
+<text x="744" y="141.09" font-size="18" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">death pocket → skull</text>
+<text x="744" y="199.67" font-size="18" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">color</text>
+<text x="744" y="262.33" font-size="18" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">copies → x2</text>
+<text x="744" y="320.91" font-size="18" fill="#f2efe6" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">heat → flame</text>
+<text x="60" y="392" font-size="15" fill="#c9c3b1" text-anchor="start" font-family="ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">Board sync only changes how tiles look. It does not change bets, payouts, chips or money.</text>
+</svg>
