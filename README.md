@@ -12,7 +12,9 @@
 
 New to the game? The **[Trust Your Gut wiki][wiki]** has every ball, memento and offer, the board, and how to unlock characters and achievements.
 
-Made by **[ThinkBot][thinkbot]**. _Unofficial fan mod. Not affiliated with Mishleto, the game's developer. No game files included._
+_Unofficial fan mod. Not affiliated with Mishleto, the game's developer. No game files included._
+
+How we built it: [the write-up on thinks.bot](https://thinks.bot/blog/trust-your-gut-mod-board-sync-save-points) · Entry: [thinks.bot/oss/trust-your-gut-mod](https://thinks.bot/oss/trust-your-gut-mod)
 
 </div>
 
@@ -254,6 +256,7 @@ These start the same code as the hotkeys and buttons. Results go to `TygMod.log`
 | `mod/src/BoardSync.cs` | Reads the wheel, paints the tiles, F6/F7. |
 | `mod/src/SaveGate.cs` | Calls into the game's SaveManager: save like Quit to menu, reset pending state before a restore. |
 | `mod/src/SavePointStore.cs` | Make, list, read and restore save points. |
+| `mod/src/RestoreMark.cs` | Marks a run restored from a save point with the game's own flag, so it does not count for leaderboards or achievements. |
 | `mod/src/SavePointMeta.cs` | Name, pin and delete. Plain .NET, tested by `tools/meta-test/run.sh`. |
 | `mod/src/SaveDetails.cs` | Reads the item lists, tokens, bet limit level and cut body parts from a save. Plain .NET, tested by `tools/meta-test/run.sh`. |
 | `mod/src/ItemIcons.cs` | Item names, pictures and rarity colors from the game's own item lists. Read only. |
@@ -295,7 +298,9 @@ Our Trust Your Gut wiki is coming soon: every ball, memento and offer, the board
 
 <div align="center">
 
-**[Trust Your Gut wiki][wiki]** · Made by **[ThinkBot][thinkbot]** at [thinks.bot][thinkbot]
+**[Trust Your Gut wiki][wiki]**
+
+Made by [ThinkBot](https://thinks.bot), a US-led senior software pod. More open source and fair source: [thinks.bot/oss](https://thinks.bot/oss).
 
 <sub>Made for Steam app 4066520 (Unity 6000.0.62, build 26799649) in a CrossOver bottle named `Steam` on a Mac. Save points made by an older game version may not load after a game update.</sub>
 
